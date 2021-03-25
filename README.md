@@ -15,4 +15,4 @@
 * 設計稿圖標（icon）使用 [Font Awesome](https://fontawesome.com/)；切版需求則混用 Font Awesome 與 [Material icons](https://material.io/resources/icons/?style=baseline)，您可以自由決定使用哪種。
 * Attribution-NonCommercial 3.0 Taiwan (CC BY-NC 3.0 TW)
 
-![screen shot](https://i.imgur.com/2REGZaM.png =600x)
+<img alt="screen shot" src="https://i.imgur.com/2REGZaM.png" />
