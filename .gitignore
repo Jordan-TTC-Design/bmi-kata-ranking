@@ -2,6 +2,12 @@
 components.min.css
 components.min.css.map
 
+#SCSS
+scss
+
+#HTML
+components.html
+
 # Logs
 logs
 *.log
